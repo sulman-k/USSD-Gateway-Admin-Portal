@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<connectdelay value="5000"/>
+<servers/>
+<associations>
+	<name value="USSD_GW1_Huawei_A_1"/>
+	<association name="USSD_GW1_Huawei_A_1" assoctype="CLIENT" hostAddress="10.155.11.11" hostPort="5301" peerAddress="10.238.84.6" peerPort="6010" serverName="" ipChannelType="0" extraHostAddresseSize="0"/>
+	<name value="USSD_GW1_Huawei_A_2"/>
+	<association name="USSD_GW1_Huawei_A_2" assoctype="CLIENT" hostAddress="10.155.11.11" hostPort="5302" peerAddress="10.238.84.7" peerPort="6010" serverName="" ipChannelType="0" extraHostAddresseSize="0"/>
+	<name value="USSD_GW1_Huawei_B_2"/>
+	<association name="USSD_GW1_Huawei_B_2" assoctype="CLIENT" hostAddress="10.155.11.11" hostPort="5306" peerAddress="10.238.12.7" peerPort="6010" serverName="" ipChannelType="0" extraHostAddresseSize="0"/>
+	<name value="USSD_GW1_Eagle_A_1"/>
+	<association name="USSD_GW1_Eagle_A_1" assoctype="CLIENT" hostAddress="10.155.11.11" hostPort="5303" peerAddress="10.154.5.14" peerPort="2905" serverName="" ipChannelType="0" extraHostAddresseSize="0"/>
+	<name value="USSD_GW1_Eagle_A_2"/>
+	<association name="USSD_GW1_Eagle_A_2" assoctype="CLIENT" hostAddress="10.155.11.11" hostPort="5304" peerAddress="10.154.5.15" peerPort="2905" serverName="" ipChannelType="0" extraHostAddresseSize="0"/>
+	<name value="USSD_GW1_Eagle_B_1"/>
+	<association name="USSD_GW1_Eagle_B_1" assoctype="CLIENT" hostAddress="10.155.11.11" hostPort="5307" peerAddress="10.141.14.14" peerPort="2905" serverName="" ipChannelType="0" extraHostAddresseSize="0"/>
+	<name value="USSD_GW1_Eagle_B_2"/>
+	<association name="USSD_GW1_Eagle_B_2" assoctype="CLIENT" hostAddress="10.155.11.11" hostPort="5308" peerAddress="10.141.14.15" peerPort="2905" serverName="" ipChannelType="0" extraHostAddresseSize="0"/>
+	<name value="USSD_GW1_Huawei_B_1"/>
+	<association name="USSD_GW1_Huawei_B_1" assoctype="CLIENT" hostAddress="10.155.11.11" hostPort="5305" peerAddress="10.238.12.6" peerPort="6010" serverName="" ipChannelType="0" extraHostAddresseSize="0"/>
+</associations>
